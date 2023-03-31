@@ -19,4 +19,4 @@ of topic modeling on short texts.
 
 > [Dataset](https://drive.google.com/drive/folders/1M_7jAJdlEFVFlAdKeN4_74Uv5ZrPxpXT?usp=sharing)
 
-![Visualization of dataset]([https://myoctocat.com/assets/images/base-octocat.svg](https://drive.google.com/file/d/1j7e_-nvmoNcFTFywnByHR6KgbIUr4_N1/view?usp=share_link)(https://drive.google.com/file/d/18kosh6fWYbT4Mdet26TYpU-iFBpg79E7/view?usp=share_link))
+![Visualization of dataset](https://drive.google.com/file/d/1j7e_-nvmoNcFTFywnByHR6KgbIUr4_N1/view?usp=share_link)
