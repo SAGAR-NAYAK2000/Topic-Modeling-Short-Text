@@ -12,3 +12,7 @@ Given a dataset of short texts, the goal is to automatically discover the underl
 Researchers have developed several specialized techniques for topic modeling on short texts, such as Non-negative Matrix Factorization (NMF), Short Text Topic Modeling
 (STTM), and Topical Word Embeddings (TWE). These methods leverage additional information such as user profiles or external knowledge bases to improve the accuracy
 of topic modeling on short texts.
+
+
+# Sagar.ipynb - World cloud representation of 4 clusters using k-means as well as Spectral clustering.
+# Sagar2_O.ipynb - Extension of  [Sagar.ipynb]([https://pages.github.com/](https://github.com/SAGAR-NAYAK2000/K-means-Spectral-clustering-on-twitter-dataset/blob/main/Sagar.ipynb)). Here the performance measures are been taken into consideration . F1 Score, Silhouette score, Calinski – Harabasz Index  
