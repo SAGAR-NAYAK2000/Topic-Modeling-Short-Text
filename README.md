@@ -14,5 +14,5 @@ Researchers have developed several specialized techniques for topic modeling on 
 of topic modeling on short texts.
 
 
-# Sagar.ipynb - World cloud representation of 4 clusters using k-means as well as Spectral clustering.
-# Sagar2_O.ipynb - Extension of  [Sagar.ipynb]([https://pages.github.com/](https://github.com/SAGAR-NAYAK2000/K-means-Spectral-clustering-on-twitter-dataset/blob/main/Sagar.ipynb)). Here the performance measures are been taken into consideration . F1 Score, Silhouette score, Calinski – Harabasz Index  
+## Sagar.ipynb - World cloud representation of 4 clusters using k-means as well as Spectral clustering.
+## Sagar2_O.ipynb - Extension of  [Sagar.ipynb]([https://pages.github.com/](https://github.com/SAGAR-NAYAK2000/K-means-Spectral-clustering-on-twitter-dataset/blob/main/Sagar.ipynb)). Here the performance measures are been taken into consideration . F1 Score, Silhouette score, Calinski – Harabasz Index  
